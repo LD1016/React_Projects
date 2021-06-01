@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "First Title",
+      "description": "Second Title",
+      "userId": "108743686132377804858",
+      "id": 1
+    },
+    {
+      "title": "StreamForm",
+      "description": "This is using Stream",
+      "id": 4
+    }
+  ]
+}

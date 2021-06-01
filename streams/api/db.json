@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "First Title",
+      "description": "First Description",
+      "id": 1
+    },
+    {
+      "title": "Hello ",
+      "description": "World",
+      "userId": null,
+      "id": 2
+    },
+    {
+      "title": "This is my Title",
+      "description": "This is a patch request change",
+      "userId": "108743686132377804858",
+      "id": 3
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "This is about to change",
+      "id": 4
+    }
+  ]
+}
